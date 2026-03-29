@@ -1,6 +1,6 @@
 # Hi, I'm Nek Mehta
 
-- Branch: Computer Science
+- Branch: Computer Science Engineering (Artificial Intelligence & Machine Learning)
 - Year: First Year
 
 I hope to learn programming, build real-world projects, and improve my problem-solving skills over the next four years.
